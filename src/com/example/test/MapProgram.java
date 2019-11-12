@@ -27,10 +27,26 @@ public class MapProgram {
             languages.put("Java", "another post with java");
         }
 
-       // System.out.println(languages.get("Java"));
+        System.out.println("=====================================================================");
 
+       // languages.remove("Lips");
+        if (languages.remove("Algol", "an algorithmic language")){
+            System.out.println("Algol removed");
+        }else{
+            System.out.println("Algol not removed, key/value pair not found");
+        }
+        //System.out.println(languages.replace("Lisp", "a functional programming language"));
+        if (languages.replace("Lisp", "Therein lies madness", "Replaced with new string")){
+            System.out.println("Lisp replaced");
+        }else{
+            System.out.println("Lisp was not replaced");
+        }
+        System.out.println(languages.replace("Ruby", "this wont be added"));
 
-        //System.out.println(languages.get("Java"));
+        for (String key: languages.keySet()){
+            System.out.println(key + " : " + languages.get(key));
+        }
+
 
 
 

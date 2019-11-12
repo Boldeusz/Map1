@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e849b6-a3af-4c43-bd23-8240f48af4bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/test/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/test/MapProgram.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573555322864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="wpis 11:55">
+      <created>1573556159739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573556159739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nowy wpis 11:41" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowy wpis 11:41" />
+    <MESSAGE value="wpis 11:55" />
+    <option name="LAST_COMMIT_MESSAGE" value="wpis 11:55" />
   </component>
 </project>
